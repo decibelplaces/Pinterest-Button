@@ -7,5 +7,3 @@ Maybe I will make a Drupal module with it when I have time, with better settings
 You can see the button installed at http://faiththedog.info/ and http://netsperience.org/
 
 More Pinterest goodies (and some original code which I adapted for the button) at http://pinterest.com/about/goodies/
-
-this is a test
